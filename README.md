@@ -20,16 +20,7 @@ I'm an aspiring **AI Engineer** and **Python Full Stack Developer** passionate a
 * AWS Cloud
 * Docker & CI/CD
 
-###  Technical Skills
 
-* **Languages:** Python, JavaScript, SQL
-* **Frontend:** HTML, CSS, JavaScript, React
-* **Backend:** FastAPI, Flask
-* **AI/ML:** Machine Learning, Deep Learning, TensorFlow, PyTorch, Hugging Face, LangChain, RAG
-* **Databases:** MySQL, Vector Databases
-* **Cloud & DevOps:** AWS, Docker, Git, GitHub
-
-🎯 My goal is to become a skilled **AI Engineer** who designs and deploys intelligent applications that solve real-world problems by combining AI, cloud technologies, and full stack development.
 
 📫 Reach me at: samirabanu297@gmail.com
 
